@@ -29,9 +29,10 @@ proxy.txt: Daftar proxy (opsional, 1 baris per proxy).
 1. Clone repository (atau salin file yang dibutuhkan):
 
 
-
-git clone <repository-url>
+```
+git clone https://github.com/Yuurichan-N3/LayerEdgeAuto-Bot.git
 cd LayerEdgeAuto-Bot
+```
 
 2. Instal dependensi:
 
