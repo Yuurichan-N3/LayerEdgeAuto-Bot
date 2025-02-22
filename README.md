@@ -88,7 +88,7 @@ stopNode: Menonaktifkan node.
 checkNodePoints: Mengecek jumlah poin yang telah dikumpulkan.
 
 
-⚠️ Catatan Penting
+## ⚠️ Catatan Penting
 
 Jangan bagikan file wallets.txt ke siapa pun! File ini berisi private key yang sangat sensitif.
 
